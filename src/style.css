@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+button,
+input,
+select,
+textarea {
+    font-size: 100%;
+}
